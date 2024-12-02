@@ -4,6 +4,9 @@
 ## Overview
 
 This repository does xyz
+
 The code is in the file xyz
+
 I'm trying to xyz
+
 This was homework for my ECON 418, Introduction to Econometrics course at the University of Arizona
